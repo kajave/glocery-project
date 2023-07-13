@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GloceryProjectApplication {
 
 	public static void main(String[] args) {
-		System.out.println("changes + feature");
+		System.out.println("changes - feature");
 		SpringApplication.run(GloceryProjectApplication.class, args);
 	}
 
